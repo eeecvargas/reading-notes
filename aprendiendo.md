@@ -1,8 +1,8 @@
-## Qué es Markdown
+## ¿Qué es Markdown?
 
 Estás escribiendo un texto en tu laptop, pero quieres darle estilo y formato sin complicarte con un lenguaje más "pesado", aquí entra Markdown. Es como tener un conjunto de reglas super simples que puedes usar mientras escribes para agregar títulos, negritas, enlaces y más. Todo de manera sencilla y estructurada.
 
-### Por qué utilizamos Markdown
+### ¿Por qué utilizamos Markdown?
 Markdown es una herramienta poderosa y fácil de usar que ofrece numerosas ventajas. Una herramienta versátil que te permite darle estilo y formato a tu texto sin complicaciones. Lo genial de Markdown es que puedes hacer cosas como poner palabras en negrita o cursiva, crear enlaces, y hasta hacer listas (como ya lo mencionamos anteriormente), todo con solo usar texto normal. Por ejemplo, el texto que escribes en Markdown es compatible con casi cualquier dispositivo o programa. Así que no importa si estás usando la computadora, el celular o incluso la tablet, siempre podrás acceder y editar tus textos sin problemas.
 
 Así que, en resumen, Markdown es como el aliado cuando se trata de escribir en internet o crear contenido. Es fácil de usar, te da libertad para expresarte y asegura que tu trabajo siempre esté accesible y sobretodo seguro.
@@ -25,7 +25,8 @@ Básicamente envolver palabras o textos en estos símbolos para conseguir cursiv
 
 #### Creación de un vínculo
 Se crean escribiendo la palabra o texto enlazada entre [] corchetes, y el link en cuestión entre () paréntesis.
-Algo [así](https://learn.microsoft.com/es-es/contribute/content/media/how-to-write-links/bookmark-link.png)
+
+###### Algo [así](https://learn.microsoft.com/es-es/contribute/content/media/how-to-write-links/bookmark-link.png)
 
 #### ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
 
