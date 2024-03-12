@@ -25,7 +25,7 @@ Básicamente envolver palabras o textos en estos símbolos para conseguir cursiv
 
 #### Creación de un vínculo
 Se crean escribiendo la palabra o texto enlazada entre [] corchetes, y el link en cuestión entre () paréntesis.
-Ejem--->escribiremos "[enlace en línea](http://www.google.com)" =[enlace en línea](http://www.google.com)
+Algo [así](https://learn.microsoft.com/es-es/contribute/content/media/how-to-write-links/bookmark-link.png)
 
 #### ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
 
