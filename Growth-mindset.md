@@ -8,4 +8,5 @@
  2. **Aprender de los desafíos**-->oportunidades para aprender y crecer.
  3. **Celebrar y honrar el progreso**--> un paso a la vez.
 
-    
+*Mi nombre es Eva Carolina, estoy en la universidad, quiero aprender nuevas herramientas tecnológicas y poder desenvolverme mejor en este rubro, usar mi creatividad :) *
+Enlace github: [Github](https://github.com/eeecvargas?tab=repositories)
