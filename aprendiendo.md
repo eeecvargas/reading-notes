@@ -30,12 +30,6 @@ Ejem--->[enlace en línea](http://www.google.com)
 #### ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
 
 Para crear listas desordenadas se usan * asteriscos, - guiones, o + símbolo de suma.
-Ejem--->
-- Elemento de lista 1
-- Elemento de lista 2
-* Elemento de lista 3
-* Elemento de lista 4
-+ Elemento de lista 5
-+ Elemento de lista 6
+Este ejemplo lo ilustra de manera más clara: [listadesordenada](https://geekland.eu/wp-content/uploads/2019/04/listas-desordenadas.png)
 
 En conclusión, con Markdown es posible hacer que los documentos se vean geniales con solo recordar ciertas funciones básicas. :)
