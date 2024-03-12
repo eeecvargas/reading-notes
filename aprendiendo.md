@@ -27,6 +27,7 @@ Básicamente envolver palabras o textos en estos símbolos para conseguir cursiv
 Se crean escribiendo la palabra o texto enlazada entre [] corchetes, y el link en cuestión entre () paréntesis.
 
 ###### Algo [así](https://learn.microsoft.com/es-es/contribute/content/media/how-to-write-links/bookmark-link.png)
+Tomando en cuenta que lo que va entre paréntesis será el enlace completo del archivo web.
 
 #### ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
 
