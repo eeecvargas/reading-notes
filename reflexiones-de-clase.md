@@ -1,5 +1,5 @@
 
-### Algunas reflexiones y observaciones en clase.
+### Algunas reflexiones y observaciones en clase:
 
 #### Sobre la clase 03:
      Lo que aprendí de esta clase es clonar un documento para trabajar offline y acceder por medio de la terminal conocer más  
