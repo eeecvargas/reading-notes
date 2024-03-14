@@ -1,5 +1,5 @@
-## ¡Bienvenido a mis Notas de Lectura!
-Hola! Mi nombre es Eva Carolina, difruto estar en la naturaleza y los deportes al aire libre. 
+#### ¡Bienvenida!
+Hola! Mi nombre es Eva Carolina, disfruto estar en la naturaleza y los deportes al aire libre. 
 
 ### Acerca de este sitio
 Este es mi repositorio de notas de lectura de Enter Tech donde compartiré mis apuntes de clase y algunos aprendizajes relacionados.En este sitio encontrarás mis notas de lectura  organizadas por los cursos code 102 y code 201. Donde cada tema tednrá su propia página con contenido detallado.
