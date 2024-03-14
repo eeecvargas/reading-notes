@@ -1,5 +1,6 @@
 ### Sobre la lectura
-Si necesitas escribir algo rápido y sin complicaciones de diseño, un editor de texto es la herramienta perfecta para eso. Algunos ejemplos que muy probablemente resulten familiares al lector son Microsoft Word, Google Docs, Bloc de Notas, entre otras.
+#### ¿Qué es un editor de texto?
+Un editor de texto es una herramienta de software que se puede descargar e instalar en tu computadora, o a la que puedes acceder en línea a través de tu navegador web. Este software te permite escribir y gestionar texto, especialmente el texto que creas para construir un sitio web.
 
 #### ¿Cuáles son las cuatro características importantes que se deben buscar en un editor de texto?
 Así, las cuatro y más importantes características en un editor de texto son las siguientes: 
