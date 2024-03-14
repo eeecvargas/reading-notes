@@ -1,14 +1,12 @@
-## Mentalidad de crecimiento
+## ¡Bienvenido a mis Notas de Lectura!
+Hola! Mi nombre es Eva Carolina, difruto estar en la naturaleza y los deportes al aire libre. 
 
- La mentalidad de crecimiento es una herramienta para enfrentar situaciones adversas desde una narrativa optimista. 
- Este artículo puede resultar de ayuda:
- [GrowthMindset](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)
+### Acerca de este sitio
+Este es mi repositorio de notas de lectura de Enter Tech donde compartiré mis apuntes de clase y algunos aprendizajes relacionados.En este sitio encontrarás mis notas de lectura  organizadas por los cursos code 102 y code 201. Donde cada tema tednrá su propia página con contenido detallado.
+### Tabla de Contenidos
 
-## Recordatorios 
- 1. **Aceptar la crítica constructiva**-->oportunidades para reflexionar y mejorar.
- 2. **Aprender de los desafíos**-->oportunidades para aprender y crecer.
- 3. **Celebrar y honrar el progreso**--> un paso a la vez.
+## [Notas de lectura del Código 102](./102/)
 
-#### Mi nombre es Eva Carolina, estoy en la universidad, quiero aprender nuevas herramientas tecnológicas y poder desenvolverme mejor en este rubro, usar mi creatividad :) 
+## [Notas de lectura del Código 201](./201/)
 
-##### Enlace github: [Github](https://github.com/eeecvargas?tab=repositories)
+
