@@ -9,8 +9,10 @@ Este es mi repositorio de notas de lectura de Enter Tech donde compartiré mis a
 
 ## Tabla de Contenidos
 
-### [Notas de lectura del Código 102](./102/)
 
-### [Notas de lectura del Código 201](./201/)
 
-### [Reflexiones y observaciones](https://eeecvargas.github.io/reading-notes/reflexiones-de-clase)
+#### [Notas de lectura del Código 102](./102/)
+
+#### [Notas de lectura del Código 201](./201/)
+
+#### [Reflexiones y observaciones](https://eeecvargas.github.io/reading-notes/reflexiones-de-clase)
