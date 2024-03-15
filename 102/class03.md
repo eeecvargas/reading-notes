@@ -21,8 +21,17 @@ El comando git add es fundamental para organizar y preparar tus cambios antes de
 Es "git commit". Después de haber utilizado "git add" para preparar los archivos en el área de preparación, el comando "git commit" toma esos archivos preparados y crea una instantánea (snapshot) que representa un conjunto de cambios en el repositorio.
 
 ### ¿Cuál es el comando para enviar los archivos modificados a Github?
-Para ese acción se usa el comando "git push". Después de haber realizado un commit con los cambios deseados, "git push" se usa para enviar esos commits al repositorio remoto especificado, como en google docs que puedes colaborar en simultáneo, git es más estructurado por ello fomenta el uso de ramas para desarrollar nuevas características o cambios sin afectar la rama principal; así también brinda más control, permite revisar los cambios antes de fusionarlos en la rama principal--> qué cambios se incluyen en la versión final del proyecto.
- Adicional: Git utiliza un sistema de control de versiones distribuido que permite a cada colaborador tener una copia completa del repositorio, incluyendo todo el historial de versiones. Esto significa que los cambios se realizan localmente y luego se pueden enviar al repositorio remoto, lo que ofrece más flexibilidad y control sobre los cambios que se realizan.
+Para ese acción se usa el comando "git push". 
 
-git add git commit git push - ACP
+Después de haber realizado un commit con los cambios deseados, "git push" se usa para enviar esos commits al repositorio remoto especificado, como en google docs que puedes colaborar en simultáneo, git es más estructurado por ello fomenta el uso de ramas para desarrollar nuevas características o cambios sin afectar la rama principal. Así también esta acción brinda más control, permite revisar los cambios antes de fusionarlos en la rama principal = qué cambios se incluyen en la versión final del proyecto.
+
+Info adicional: Git utiliza un sistema de control de versiones distribuido que permite a cada colaborador tener una copia completa del repositorio, incluyendo todo el historial de versiones. Esto significa que los cambios se realizan localmente y luego se pueden enviar al repositorio remoto, lo que ofrece más flexibilidad y control sobre los cambios que se realizan. 
+
+˗ˏˋ ★ ˎˊ˗ Es como estar trabajando en un proyecto de equipo donde todos pueden editar un documento al mismo tiempo, como Google Docs. En este caso, todos están viendo y trabajando directamente en el mismo documento en la nube. Cada cambio que haces se actualiza instantáneamente para todos los demás.
+
+Git es algo similar, pero con una pequeña diferencia. En lugar de trabajar directamente en el mismo documento en la nube, cada persona tiene su copia completa del documento en su computadora (una copia local). Así, es posible hacer todos los cambios que quieras en tu copia local sin preocuparte por afectar la versión principal que todos comparten.
+
+Luego, cuando ya estés lista y quieras que todos vean tus cambios, puedes enviar esos cambios al documento principal (repositorio remoto). Esto se hace de manera organizada para evitar que los cambios de diferentes personas se mezclen de forma confusa. ˗ˏˋ ★ ˎˊ˗
+
+## git add git commit git push - ACP
 
