@@ -1,7 +1,7 @@
 ## CLASE 03
 En esta clase estuvimos trabajando con el sistema git y sus principales comandos a usar en la terminal. 
 
-En relación al GIT:
+En relación al sistema GIT:
 
 ### ¿Qué es el control de versiones?
 Básicamente es el sistema que registra los cambios realizados por los colaboradores en los archivos de un proyecto. Ver el historial ordenado y detallado de todas las modificaciones hechas en un repositorio, esto faicilita la colaboración, poder hacer un seguimiento de los cambios-->mejora la gestión del desarrollo del proyecto.
