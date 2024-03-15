@@ -1,5 +1,5 @@
 ## CLASE 03
-En esta clase estuvimos trabajando con el sistema git y sus principales comandos a usar en la terminal. De hecho, el git se usa dentro de un entorno GitaHub, justo como esta página.
+En esta clase estuvimos trabajando con el sistema git y sus principales comandos a usar en la terminal. 
 
 En relación al GIT:
 
