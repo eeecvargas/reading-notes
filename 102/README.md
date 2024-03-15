@@ -4,6 +4,6 @@
 3. [Clase 03](./class03.md/)
 4. [Clase 04](./class04.md/)
 5. [Clase 05](./class05.md/)
-6. [Clase 06](./102/class06.md)
-7. [Clase 07](./102/class07.md)
+6. [Clase 06](./class06.md/)
+7. [Clase 07](./class07.md/)
 8. [Clase 08](./102/class08.md)
