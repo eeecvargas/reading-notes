@@ -1,5 +1,5 @@
 ## [Notas de lectura del Código 102](./102/)
-1. [Clase 01](./102/class01.md)
+1. [Clase 01](./class01.md/)
 2. [Clase 02](./102/class02.md)
 3. [Clase 03](./102/class03.md)
 4. [Clase 04](./102/class04.md)
