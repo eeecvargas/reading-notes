@@ -11,7 +11,7 @@ Hay tres formas diferentes de aplicar CSS a un documento HTML, sin embargo, la f
  [ejem](https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Getting_started].
 
  2. Otra forma es estilo en línea, donde se aplica directamente a un elemento HTML utilizando el atributo style, ejemplo :
-<p style="color: blue; font-size: 18px;">Este es un párrafo con estilo en línea :).</p>
+`<p style="color: blue; font-size: 18px;">Este es un párrafo con estilo en línea :).</p>`
 
 3. Hojas de estilo externas:
 
