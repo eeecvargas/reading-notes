@@ -17,18 +17,17 @@ Hay tres formas diferentes de aplicar CSS a un documento HTML, sin embargo, la f
 
 Para una mejor organización y mantenimiento del código, se pueden crear archivos CSS independientes y vincularlos al HTML. Así, se almacena en un archivo separado con extensión .css y se enlaza con el documento HTML utilizando la etiqueta <link> en la sección <head>.
  Por ejemplo:
- ´
-"<head>
+ `<head>
   <link rel="stylesheet" href="estilos.css">
-</head>"
-´
+  </head>`
+
 
 ## 3. Ejemplo de una regla CSS que daría texto rojo a todos los elementos:
 
 La siguiente regla CSS aplica color rojo al texto de todos los elementos en un documento HTML:
 Primero, en un archivo estilos.css aparte y luego vincularlo al html.
 
-´body {
+`body {
   color: red;
-}´
+}`
 En este ejemplo, la regla se aplicará a todo el contenido textual del cuerpo del documento HTML, haciendo que el texto de todos los elementos sean de color rojo.
