@@ -9,7 +9,7 @@ En estas cajas podemos guardar números, textos, booleanos y otros tipos de info
 Asigna un valor a una variable. Le indicamos al programa que queremos "reservar" un espacio en la memoria para almacenar cierto tipo de información. Usamos palabras clave como ´var´ ´let´, o´const´ para declarar variables.
 
 ## ¿Qué es un operador de “asignación” y qué hace?
-´=´ es un símbolo de aignación, básicamente, como mencionamos en la anterior pregunta cuando declaramos una variable le estamos asignando valor a una variable, y para esto usamos el operador ´=´
+´=´ es un símbolo de asignación, básicamente, como mencionamos en la anterior pregunta cuando declaramos una variable le estamos asignando valor a una variable, y para esto usamos el operador ´=´
 ejemplo ´var pais = Angola ´, asignamos el valor Angola a la variable país.
 
 
