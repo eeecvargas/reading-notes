@@ -10,11 +10,11 @@ op=gral, exp=aplicado
     
 Las **expresiones** usan **operadores**.
     
-+ **Aritméticas**: 3.14159. Generalmente usa operadores aritméticos.
+    + **Aritméticas**: 3.14159. Generalmente usa operadores aritméticos.
 
- + **Cadenas**: se evalúa como una cadena de caracteres, por ejemplo, "Fred" o "234". 
+    + **Cadenas**: se evalúa como una cadena de caracteres, por ejemplo, "Fred" o "234". 
 
-  + **Lógicas**: `true` o `false`. A menudo implica operadores lógicos.
+    + **Lógicas**: `true` o `false`. A menudo implica operadores lógicos.
 
     + **Expresiones primarias**: palabras clave básicas y expresiones generales en JavaScript: this, por ejemplo.
 
