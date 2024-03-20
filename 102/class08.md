@@ -19,8 +19,10 @@ Las **expresiones** usan **operadores**.
   + **Expresiones primarias**: palabras clave básicas y expresiones generales en JavaScript: this, por ejemplo.
 
   + **Expresiones del lado izquierdo**: asigna un valor a una variable o propiedad.
-``let x=10; donde x es la variable a la que se le está asignando el valor de 10.``
-``persona.nombre="July", donde persona.nombre asigna un valor a una propiedad de un objeto(persona).``
+    Ejemplo:
+``let x=10; ``donde x es la variable a la que se le está asignando el valor de 10.
+
+``persona.nombre="July"``, donde persona.nombre asigna un valor a una propiedad de un objeto(persona).
 
 ### ¿Por qué usaríamos un bucle en nuestro código?
 Para repetir una operación repetidas veces basándonos en una condición. O sea, repetir algo indicando donde inicia y donde termina ese bucle.
