@@ -27,18 +27,21 @@ Las **expresiones** usan **operadores**.
 ### ¿Por qué usaríamos un bucle en nuestro código?
 Para repetir una operación repetidas veces basándonos en una condición. O sea, repetir algo indicando donde inicia y donde termina ese bucle.
 
+
 ### ¿Cuándo deja de ejecutarse un bucle **`for?`**
 Deja de ejecutarse, repetirse cierta condición hasta que esta se evalúe como **falsa** (false).
+
 
 ### ¿Cuántas veces se ejecutará un bucle “ while “?
 Al revés que el for, dejará de repetirse justo cuando una condición específica se evalúe como **verdadera** (true).
 
 [Aquí más información sobre bucles](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
+
 #### +
 #### Diferencia entre expresion y operación en Javascript
 #### + 
 
 Una operación es una acción específica dentro de una expresión más grande, mientras que una expresión es un fragmento de código que produce un valor y puede contener una o más operaciones.
-
+#### Las expresiones contienen operaciones.
 
