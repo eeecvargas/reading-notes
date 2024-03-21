@@ -41,7 +41,7 @@ Al revés que el for, dejará de repetirse justo cuando una condición específi
 
 -----------------------------------
 #### +
-#### Diferencia entre expresion y operación en Javascript
+#### Diferencia entre expresión y operación en Javascript
 #### + 
 
 Una operación es una acción específica dentro de una expresión más grande, mientras que una expresión es un fragmento de código que produce un valor y puede contener una o más operaciones.
