@@ -7,14 +7,14 @@ Básicamente el orden en el que la computadora o el programa ejecuta las declara
     
     Por ejemplo, con unas pocas líneas de código puedes recorrer varías condiciones = controlar un “gran” flujo de información antes de ejecutar el resultado.
     
-    > El flujo de control significa que cuando lees un script, no solo debes leer de principio a fin, sino también **observar la estructura del programa** y **cómo afecta el orden de ejecución**.
-    
-    El programa hace un recorrido por toda la información que cumple con la condición requerida y en base a ello ejecuta el resultado verificado. El control de los pasos verificados con la condición previos a la ejecución.
+El flujo de control significa que cuando lees un script, no solo debes leer de principio a fin, sino también **observar la estructura del programa** y **cómo afecta el orden de ejecución**.
+
++ El programa hace un recorrido por toda la información que cumple con la condición requerida y en base a ello ejecuta el resultado verificado. El control de los pasos verificados con la condición previos a la ejecución.
 -----
 
-  ## ¿Qué es una “function” (Función) de JavaScript? 
+## ¿Qué es una “function” (Función) de JavaScript? 
     Una operación adaptada a un elemento de código. En JavaScript, una función es un bloque de código reutilizable que se utiliza para realizar una tarea específica. Las funciones suelen calcular un valor de retorno. Como vemos en este ejemplo:
-<script>
+`<script>
 let x = mifuncion(4, 3);
  
 
@@ -23,7 +23,7 @@ function mifuncion(a, b) {
 }
 document.write(x); 
 document.getElementById("demo").innerHTML = x;
-</script>``
+</script>`
 
 -----
 
