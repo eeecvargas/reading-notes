@@ -7,7 +7,7 @@
     
 op=gral, exp=aplicado
     
-** Algunas categorías de expresión:**
+**Algunas categorías de expresión:**
     
 Las **expresiones** usan **operadores**.
     
