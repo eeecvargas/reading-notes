@@ -22,12 +22,15 @@ Las **expresiones** usan **operadores**.
 ``let x=10; ``donde x es la variable a la que se le está asignando el valor de 10.
 
 ``persona.nombre="July"``, donde persona.nombre asigna un valor a una propiedad de un objeto(persona).
-----------
+
+------------------------------
 ### ¿Por qué usaríamos un bucle en nuestro código?
 Para repetir una operación repetidas veces basándonos en una condición. O sea, repetir algo indicando donde inicia y donde termina ese bucle.
+
 --------------
 ### ¿Cuándo deja de ejecutarse un bucle **`for?`**
 Deja de ejecutarse, repetirse cierta condición hasta que esta se evalúe como **falsa** (false).
+
 --------------
 
 ### ¿Cuántas veces se ejecutará un bucle “ while “?
