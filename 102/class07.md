@@ -1,4 +1,4 @@
- ## CLASE 07
+## CLASE 07
 ### ¿Qué es “Control Flow” (Control de Flujo)?
 
 Básicamente el orden en el que la computadora o el programa ejecuta las declaraciones en un script. Pienso, por ejemplo, cuando declararmos variables, podemos asignar un valor a una varibale, pero si en la línea siguiente asignamos otro valor a la misma variable, al momento de mostrar en consola o imprimir el valor actual de la variable nos mostrará el último valor asignado, entonces el programa obedece un orden. Luego, si por ejemplo usamos condicionales sucede que lo que se va a imprimir resulta de la lectura de las condiciones, un recorrido de lo primero hacia lo último que satisface la condición, es un orden para validar el flujo de operaciones antes del resultado. Control de flujo. 
