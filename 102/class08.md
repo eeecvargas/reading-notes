@@ -37,7 +37,7 @@ Al revés que el for, dejará de repetirse justo cuando una condición específi
 
 [Aquí más información sobre bucles](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
-
+-----------------------------------
 #### +
 #### Diferencia entre expresion y operación en Javascript
 #### + 
