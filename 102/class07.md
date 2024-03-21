@@ -1,4 +1,4 @@
-## CLASE 07
+ ## CLASE 07
 ### ¿Qué es “Control Flow” (Control de Flujo)?
 
 Básicamente el orden en el que la computadora o el programa ejecuta las declaraciones en un script. Pienso, por ejemplo, cuando declararmos variables, podemos asignar un valor a una varibale, pero si en la línea siguiente asignamos otro valor a la misma variable, al momento de mostrar en consola o imprimir el valor actual de la variable nos mostrará el último valor asignado, entonces el programa obedece un orden. Luego, si por ejemplo usamos condicionales sucede que lo que se va a imprimir resulta de la lectura de las condiciones, un recorrido de lo primero hacia lo último que satisface la condición, es un orden para validar el flujo de operaciones antes del resultado. Control de flujo. 
@@ -13,8 +13,7 @@ El flujo de control significa que cuando lees un script, no solo debes leer de p
 --------------
 
 ## ¿Qué es una “function” (Función) de JavaScript? 
-    Una operación adaptada a un elemento de código. En JavaScript, una función es un bloque de código reutilizable que se utiliza para realizar una tarea específica. Las funciones suelen calcular un valor de retorno. Como vemos en este ejemplo:
-`<script>
+    Una operación adaptada a un elemento de código. En JavaScript, una función es un bloque de código reutilizable que se utiliza para realizar una tarea específica. Las funciones suelen calcular un valor de retorno. Como vemos en este ejemplo: <script>
 let x = mifuncion(4, 3);
  
 
@@ -23,7 +22,7 @@ function mifuncion(a, b) {
 }
 document.write(x); 
 document.getElementById("demo").innerHTML = x;
-</script>`
+</script>
 
 -----
 
