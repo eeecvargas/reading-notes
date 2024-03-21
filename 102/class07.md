@@ -13,7 +13,8 @@ El flujo de control significa que cuando lees un script, no solo debes leer de p
 --------------
 
 ## ¿Qué es una “function” (Función) de JavaScript? 
-    Una operación adaptada a un elemento de código. En JavaScript, una función es un bloque de código reutilizable que se utiliza para realizar una tarea específica. Las funciones suelen calcular un valor de retorno. Como vemos en este ejemplo: <script>
+    Una operación adaptada a un elemento de código. En JavaScript, una función es un bloque de código reutilizable que se utiliza para realizar una tarea específica. Las funciones suelen calcular un valor de retorno. Como vemos en este ejemplo:   
+ <script>
 let x = mifuncion(4, 3);
  
 
