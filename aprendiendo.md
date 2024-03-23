@@ -42,7 +42,7 @@ En conclusión, con Markdown es posible hacer que los documentos se vean geniale
 
 **dragonfly**
 
-* dragonfly
+:dragonfly
 
 =dragonfly
 
