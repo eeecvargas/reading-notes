@@ -35,3 +35,21 @@ Para crear listas desordenadas se usan * asteriscos, - guiones, o + símbolo de 
 Este ejemplo lo ilustra de manera más clara: [listadesordenada](https://geekland.eu/wp-content/uploads/2019/04/listas-desordenadas.png)
 
 En conclusión, con Markdown es posible hacer que los documentos se vean geniales con solo recordar ciertas funciones básicas. :)
+
+
+
+*dragonfly*
+
+**dragonfly**
+
+* dragonfly
+
+> dragonfly
+
+# dragonfly
+
+& dragonfly
+
+`dragonfly`
+
+   
